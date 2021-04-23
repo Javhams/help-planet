@@ -1,0 +1,10 @@
+$color-teal: #17A2bb;
+$color-blue: #3e5f8a;
+$color-white: #ecece7;
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: $color-blue;
+    color: $color-teal;
+}
